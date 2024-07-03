@@ -2,6 +2,7 @@ import os
 import pickle
 import streamlit as st
 import pandas as pd
+import plotly
 import plotly.express as px
 import matplotlib.pyplot as plt
 from PIL import Image
